@@ -14,11 +14,11 @@ Este repositório contém conjunto de testes automatizados com Selenium e Pytest
 
 # Cenários de testes
 
-> ✅ Login no Sistema
-> ✅ Adição de todos os produtos ao carrinho
-> ✅ Prenchendo os dados do checkout
-> ✅ Finalização da compra 
-> ✅ Logout do Sistema
+* ✅ Login no Sistema
+* ✅ Adição de todos os produtos ao carrinho
+* ✅ Preenchendo os dados do checkout
+* ✅ Finalização da compra
+* ✅ Logout do Sistema
 
 
 # E-commerce Automation com Python + Selenium + Pytest
@@ -28,10 +28,10 @@ Este repositório contém conjunto de testes automatizados com Selenium e Pytest
 
 # Tecnolofias Utilizadas
 
- > Python 3.13.3
- > Pytest
- > Selenium
- > Estrutura Page Object Model (POM)
+* Python 3.13.3
+*  Pytest
+*  Selenium
+* Estrutura Page Object Model (POM) 
 
 
 # Cenários de testes
