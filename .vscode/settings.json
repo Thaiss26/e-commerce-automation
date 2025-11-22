@@ -1,5 +1,7 @@
 {
-  "python.testing.pytestArgs": ["Pages"],
+  "python.testing.pytestArgs": [
+    "Tests"
+  ],
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true,
   "python.analysis.extraPaths": ["./Tests"]
