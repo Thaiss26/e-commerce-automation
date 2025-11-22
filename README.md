@@ -4,7 +4,7 @@
 Este repositório contém conjunto de testes automatizados com Selenium e Pytest, simulando o fluxo completo de compra em uma aplicação web. O projeto inclui cenários funcionais e estrutura modelar baseada em Page Objects.
 
 
-# Tecnolofias Utilizadas
+# Tecnologias Utilizadas
 
 * Python 3.13.3
 *  Pytest
