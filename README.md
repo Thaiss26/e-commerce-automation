@@ -14,11 +14,11 @@ Este repositório contém conjunto de testes automatizados com Selenium e Pytest
 
 # Cenários de testes
 
-> ✅Login no Sistema
-> ✅ Adição de todos os produtos ao carrinho
-> ✅ Prenchendo os dados do checkout
-> ✅ Finalização da compra 
-> ✅ Logout do Sistema
+* ✅Login no Sistema
+* ✅ Adição de todos os produtos ao carrinho
+* ✅ Prenchendo os dados do checkout
+* ✅ Finalização da compra 
+* ✅ Logout do Sistema
 
 
 ## Instalação e Execução
