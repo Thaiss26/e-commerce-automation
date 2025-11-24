@@ -23,18 +23,18 @@ Este repositório contém conjunto de testes automatizados com Selenium e Pytest
 
 ## Instalação e Execução
 
-➡️ Crie um Ambiente Virtual
+* Crie um Ambiente Virtual
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 
-➡️ Instale as dependências
+* Instale as dependências
 pip install -r requirements.txt
 
-➡️ Instale o Selenium Webdriver
+* Instale o Selenium Webdriver
 selenium install
 
-➡️ Rode os Testes
+* Rode os Testes
  pytest Testes/test_compra.py
 
 
