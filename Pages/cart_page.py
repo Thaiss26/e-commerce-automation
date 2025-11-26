@@ -6,7 +6,7 @@ class CartPage(BasePage):
 
     def __init__(self, driver):
         super().__init__(driver)
-        self.botao_checkout = (By.CSS_SELECTOR, 'button[data-test="checkout"]')
+        self.botao_checkout = (By.XPATH, "//button[@data-test='checkout']")
     
     def iniciar_checkout(self):
         print("Iniciando processo de checkout...")
